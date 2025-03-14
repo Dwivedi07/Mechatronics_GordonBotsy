@@ -44,3 +44,18 @@ Feel free to contribute by improving the code, optimizing algorithms, or fixing 
 ---
 For any issues or questions, please open an issue in the repository. 🚀
 
+##  Contact
+
+For questions, issues, or feedback, please reach out to the following:
+
+### Varun Pathak
+Email: vpathak@stanford.edu
+
+### Arpit Dwivedi
+Email: dwivedi7@stanford.edu
+
+### Nachiketh Karthik
+Email: karthi24@stanford.edu
+
+### Danish M
+Email: danishm@stanford.edu
