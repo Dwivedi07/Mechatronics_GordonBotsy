@@ -17,8 +17,8 @@ This repository contains the final code for the Mechatronics_GordonBotsy project
 ├── 📄 linefollow.h        # Header file for line-following module
 ├── 📄 motor_drive.cpp     # Motor control functions implementation
 ├── 📄 motor_drive.h       # Header file for motor drive module
-├── 📄 pot_movement.cpp    # Implementation of potentiometer-based movement
-├── 📄 pot_movement.h      # Header file for potentiometer movement
+├── 📄 pot_movement.cpp    # Implementation of pot-based movement
+├── 📄 pot_movement.h      # Header file for pot movement
 ├── 📄 servo.cpp           # Servo motor control functions
 ├── 📄 servo.h             # Header file for servo control
 ├── 📄 ultrasonic.cpp      # Ultrasonic sensor functions implementation
