@@ -1,6 +1,7 @@
 # ME 210: Gordon Botsy
 This repository contains all the code for our bot Gordan Botsy!
 Following is the structure of the repository:
+```
 📦 checkoff_code
 ├── 📄 beacon.cpp
 ├── 📄 beacon.h
@@ -16,3 +17,4 @@ Following is the structure of the repository:
 ├── 📄 servo.h
 ├── 📄 ultrasonic.cpp
 └── 📄 ultrasonic.h
+```
