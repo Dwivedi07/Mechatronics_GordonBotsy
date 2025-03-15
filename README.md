@@ -9,7 +9,7 @@ This repository contains the final code for the Mechatronics_GordonBotsy project
 
 ```
 📦 checkoff_code
-├── 📄 checkoffcode.ino    # Main Arduino file managing state bifurcations and module conditions
+├── 📄 gordonrocks.ino    # Main Arduino file managing state bifurcations and module conditions
 ├── 📄 beacon.cpp          # Implementation of beacon-related functions
 ├── 📄 beacon.h            # Header file for beacon module
 ├── 📄 global.h            # Global definitions and variables
