@@ -3,7 +3,7 @@ This repository contains all the code for our bot Gordan Botsy!
 
 # Checkoff Code Repository
 
-This repository contains the final code for the Mechatronics_GordonBotsy project. The main `.ino` file, `checkoffcode.ino`, handles all state bifurcations and checks conditions within each module, including motor control, beacon detection, and sensor readings.
+This repository contains the final code for the Mechatronics_GordonBotsy project. The main `.ino` file, `gordonrocks.ino`, handles all state bifurcations and checks conditions within each module, including motor control, beacon detection, and sensor readings.
 
 ## Repository Structure
 
