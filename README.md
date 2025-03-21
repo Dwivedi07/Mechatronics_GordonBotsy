@@ -33,7 +33,7 @@ This repository contains the final code for the Mechatronics_GordonBotsy project
 
 ## How to Use
 1. Clone this repository to your local machine.
-2. Open `g**ordonrocks.ino** ` in the Arduino IDE.
+2. Open `**gordonrocks.ino**` in the Arduino IDE.
 3. Ensure all required dependencies and libraries are installed.
 4. Compile and upload the code to your microcontroller.
 5. Verify functionality by checking motor movement, beacon detection, and sensor responses.
